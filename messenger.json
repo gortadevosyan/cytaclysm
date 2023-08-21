@@ -1,0 +1,19 @@
+{
+    "version": "0.2.6",
+    "template_repo": "https://github.com/linsyking/messenger-templates",
+    "scenes": {
+        "Logo": [
+            "Emp"
+        ]
+    },
+    "sceneprotos": {
+        "CoreEngine": {
+            "levels": [
+                "Home"
+            ],
+            "layers": [
+                "GameLayer"
+            ]
+        }
+    }
+}
